@@ -2,7 +2,7 @@
 
 import hashlib
 import json
-import os.path
+import os
 import urllib.request
 
 
@@ -28,7 +28,8 @@ def download_file(url, file_name):
 
 def gitbook_download():
     path = './books/'
-
+    if not os.path.exists(path):
+        os.makedirs(path)
     with open('./gitbook.json', 'r') as file:
         json_data = json.load(file)
         for js in json_data:
