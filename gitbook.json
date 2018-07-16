@@ -1,86 +1,86 @@
 [
   {
     "name": "vertx-translation-chinese.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/vertxchina/vertx-translation-chinese"
+    "url": "https://legacy.gitbook.com/download/pdf/book/vertxchina/vertx-translation-chinese"
   },
   {
     "name": "docker_practice.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/yeasy/docker_practice"
+    "url": "https://legacy.gitbook.com/download/pdf/book/yeasy/docker_practice"
   },
   {
     "name": "a-programmer-prepares.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/leohxj/a-programmer-prepares"
+    "url": "https://legacy.gitbook.com/download/pdf/book/leohxj/a-programmer-prepares"
   },
   {
     "name": "spring-boot-reference-guide-zh.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/qbgbook/spring-boot-reference-guide-zh"
+    "url": "https://legacy.gitbook.com/download/pdf/book/qbgbook/spring-boot-reference-guide-zh"
   },
   {
     "name": "elasticsearch-the-definitive-guide-cn.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/looly/elasticsearch-the-definitive-guide-cn"
+    "url": "https://legacy.gitbook.com/download/pdf/book/looly/elasticsearch-the-definitive-guide-cn"
   },
   {
     "name": "elk-stack-guide-cn.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/chenryn/elk-stack-guide-cn"
+    "url": "https://legacy.gitbook.com/download/pdf/book/chenryn/elk-stack-guide-cn"
   },
   {
     "name": "typescript-handbook.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/zhongsp/typescript-handbook"
+    "url": "https://legacy.gitbook.com/download/pdf/book/zhongsp/typescript-handbook"
   },
   {
     "name": "design-pattern-java.pdf",
-    "url": "https://www.gitbook.com/book/quanke/design-pattern-java"
+    "url": "https://legacy.gitbook.com/download/pdf/book/quanke/design-pattern-java"
   },
   {
     "name": "neural-networks-and-deep-learning-zh.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/tigerneil/neural-networks-and-deep-learning-zh"
+    "url": "https://legacy.gitbook.com/download/pdf/book/tigerneil/neural-networks-and-deep-learning-zh"
   },
   {
     "name": "redis-all-about.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/gnuhpc/redis-all-about"
+    "url": "https://legacy.gitbook.com/download/pdf/book/gnuhpc/redis-all-about"
   },
   {
     "name": "gradle-user-guide-cn.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/dongchuan/gradle-user-guide-"
+    "url": "https://legacy.gitbook.com/download/pdf/book/dongchuan/gradle-user-guide-"
   },
   {
     "name": "ecmascript-6.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/wohugb/ecmascript-6"
+    "url": "https://legacy.gitbook.com/download/pdf/book/wohugb/ecmascript-6"
   },
   {
     "name": "interpy-zh.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/eastlakeside/interpy-zh"
+    "url": "https://legacy.gitbook.com/download/pdf/book/eastlakeside/interpy-zh"
   },
   {
     "name": "learn-elasticsearch.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/fuxiaopang/learnelasticsearch"
+    "url": "https://legacy.gitbook.com/download/pdf/book/fuxiaopang/learnelasticsearch"
   },
   {
     "name": "webpack.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/zhaoda/webpack"
+    "url": "https://legacy.gitbook.com/download/pdf/book/zhaoda/webpack"
   },
   {
     "name": "kotlin-reference-chinese.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/hltj/kotlin-reference-chinese"
+    "url": "https://legacy.gitbook.com/download/pdf/book/hltj/kotlin-reference-chinese"
   },
   {
     "name": "kotlin-in-action-in-chinese.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/panxl6/kotlin-in-action-in-chinese"
+    "url": "https://legacy.gitbook.com/download/pdf/book/panxl6/kotlin-in-action-in-chinese"
   },
   {
     "name": "redis-doc.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/wizardforcel/redis-doc"
+    "url": "https://legacy.gitbook.com/download/pdf/book/wizardforcel/redis-doc"
   },
   {
     "name": "node-in-action-zh.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/sfantasy/node-in-action?lang=zh"
+    "url": "https://legacy.gitbook.com/download/pdf/book/sfantasy/node-in-action?lang=zh"
   },
   {
     "name": "essential-netty-in-action.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/waylau/essential-netty-in-action"
+    "url": "https://legacy.gitbook.com/download/pdf/book/waylau/essential-netty-in-action"
   },
   {
     "name": "modern-java.pdf",
-    "url": "https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java"
+    "url": "https://legacy.gitbook.com/download/pdf/book/wizardforcel/modern-java"
   }
 ]
