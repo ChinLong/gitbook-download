@@ -1,8 +1,9 @@
 #!/usr/bin/python
 
-import hashlib
-import json
 import os
+import sys
+import json
+import hashlib
 import urllib.request
 
 
@@ -41,9 +42,13 @@ def gitbook_download():
                 new_sha256 = remote_sha256_checksum(file_url)
                 if old_sha256 != new_sha256:
                     download_file(file_url, file_path)
+                    print('  Already update -> ', file_name)
+                else:
+                    print('  Already exists -> ', file_name)
             else:
                 download_file(file_url, file_path)
+                print('  Already download -> ', file_name)
 
 
 if __name__ == '__main__':
-    gitbook_download()
+    sys.exit(gitbook_download())
